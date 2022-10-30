@@ -1,4 +1,4 @@
-#IMPORTANT!!!!
+# IMPORTANT!!!!
 To get this to work, go the to frames directory and use ffmpeg to convert all the frames into png's.
 The command is: ffmpeg -ss 00:00 -i cat.mp4 -t 1:41 %1d.png
 
